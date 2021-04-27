@@ -1,4 +1,4 @@
-# Iniciando com Angular V1.5
+# Iniciando com AngularJS V1.5
 ## [School of Net](https://www.schoolofnet.com)
 
 * Angular.js 1.5
